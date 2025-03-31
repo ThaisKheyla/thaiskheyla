@@ -13,15 +13,13 @@
 
 </div>
 
-<div><br />
-
 ## My Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,ts,php,nextjs,arduino,react,bash,c,figma,vscode,git,github&theme=dark" />
-
-
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,nextjs,arduino,react,bash,c,figma,vscode,git,github&theme=dark" />
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:485058,100:262a2d&height=120&section=footer"/>
+
+</div>
