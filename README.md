@@ -15,7 +15,7 @@
 
 ## My Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,mysql,docker,python,java,php,arduino,react,linux,npm,bash,c#,figma,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,mysql,docker,figma,wordpress,python,java,tailwind,vue,php,kotlin,git,nodejs,arduino,react,linux,npm,bash,c#,figma,vscode,git,github&theme=dark" />
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
