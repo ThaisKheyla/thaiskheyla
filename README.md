@@ -1,11 +1,12 @@
 <div align="center">
-
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/ID_AQUI?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/ID_AQUI)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/ID_AQUI)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/ID_AQUI)](https://dev.discordprofiles.me/openspotify/SEU_ID_AQUI)
+  
+[![Discord](https://img.shields.io/badge/Discord-ktxxp__-5865F2?logo=discord&logoColor=white)](https://dev.discordprofiles.me/profiles/1216121513577545789)
+[![Discord Status](https://img.shields.io/badge/ktxxp__-Offline-8A2BE2?logo=discord&logoColor=white&labelColor=1e1e1e)](https://dev.discordprofiles.me/profiles/1216121513577545789)
+[![Spotify](https://img.shields.io/badge/Listening%20to-Pixelated%20Kisses%20🎧-1DB954?logo=spotify&logoColor=white&labelColor=1e1e1e)](https://open.spotify.com/user/31wnhdixmuk2gh7y2v7mrtt27j5u?si=bd3c8ec4f1f5429c)
+[![Instagram](https://img.shields.io/badge/ktxxp__-Instagram-ff0069?logo=instagram&logoColor=white&labelColor=1e1e1e)](https://www.instagram.com/ktxxp_/)
 
 </div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=262a2d&height=120&section=header"/>
 
