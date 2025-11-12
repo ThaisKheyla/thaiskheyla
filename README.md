@@ -4,6 +4,7 @@
 [![Discord Status](https://img.shields.io/badge/ktxxp__-Offline-8A2BE2?logo=discord&logoColor=white&labelColor=1e1e1e)](https://discord.com/users/1216121513577545789)
 [![Spotify](https://img.shields.io/badge/Listening%20to-Pixelated%20Kisses%20🎧-1DB954?logo=spotify&logoColor=white&labelColor=1e1e1e)](https://open.spotify.com/user/31wnhdixmuk2gh7y2v7mrtt27j5u?si=bd3c8ec4f1f5429c)
 [![Instagram](https://img.shields.io/badge/ktxxp__-Instagram-ff0069?logo=instagram&logoColor=white&labelColor=1e1e1e)](https://www.instagram.com/ktxxp_/)
+![Andina](https://img.shields.io/badge/Boliviana🇧🇴|Brasileira🇧🇷-Jach’a%20qamasa%20-DAA520?logo=googleearth&logoColor=white&labelColor=1e1e1e)
 
 </div>
 
